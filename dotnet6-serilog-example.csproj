@@ -13,4 +13,8 @@
     <PackageReference Include="serilog.sinks.seq" Version="5.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="logs\" />
+  </ItemGroup>
+
 </Project>
